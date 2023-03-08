@@ -4,13 +4,13 @@ MelKenneth Exclamador
 
 **Jokes**
 
-nganong uban di malunod sa baha kay plastic man 
+*nganong uban di malunod sa baha kay plastic man* 
 
 -myfriends
 
 ======================
 
-RAMandFriends
+**RAMandFriends**
 
 Ramirez
 Exclamador
