@@ -2,7 +2,7 @@
 MelKenneth Exclamador
 ========================
 
-Dislikes
+**Dislikes**
 
 -plastic
 -bully
@@ -12,7 +12,7 @@ Dislikes
 
 ======================
 
-RAMandFriends
+**RAMandFriends**
 
 Ramirez
 Exclamador
