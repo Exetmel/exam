@@ -4,14 +4,14 @@ MelKenneth Exclamador
 
 **Jokes**
 
-*nganong uban di malunod sa baha kay plastic man* 
+## bnganong uban di malunod sa baha kay plastic man 
 
--myfriends
+###### -myfriends
 
 ======================
 
-*RAMandFriends*
+# RAMandFriends*
 
-Ramirez
-Exclamador
-Gucela
+# Ramirez
+# Exclamador
+# Gucela
