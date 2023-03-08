@@ -2,13 +2,11 @@
 MelKenneth Exclamador
 ========================
 
-Dislikes
+**Jokes**
 
--plastic
--bully
--bulaos
--pink
--party
+nganong uban di malunod sa baha kay plastic man 
+
+-myfriends
 
 ======================
 
